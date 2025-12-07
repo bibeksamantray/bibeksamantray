@@ -60,27 +60,20 @@ Developed a secure real-time e-voting system with JWT authentication, role-based
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibeksamantray&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibeksamantray&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibeksamantray&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+</div> -->
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bibek-samantray)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibeksamantray2003/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bibeksamantray)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bibeksamantray)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Bibek_Samantray/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibek.s1969@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bibeksamantray.github.io)
-
-## 📫 Reach Me
-
-📧 Email: bibek.s1969@gmail.com  
-📱 Phone: +91-6370682836  
-📍 Location: Ramakrishna Nagar, Chhatarpur, India
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bibeksamantray.github.io/MyPortfolio/)
 
 ---
 
